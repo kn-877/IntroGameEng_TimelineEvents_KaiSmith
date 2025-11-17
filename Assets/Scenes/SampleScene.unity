@@ -823,10 +823,10 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -1051,7 +1051,7 @@ PlayableDirector:
   - key: {fileID: 7721404885213261645, guid: 278cff15f7ac14946b8f89fd709396e1, type: 2}
     value: {fileID: 1840218109}
   - key: {fileID: -4340876916874906733, guid: 278cff15f7ac14946b8f89fd709396e1, type: 2}
-    value: {fileID: 0}
+    value: {fileID: 1622140956}
   - key: {fileID: -7192914280031955429, guid: 278cff15f7ac14946b8f89fd709396e1, type: 2}
     value: {fileID: 247366555}
   m_ExposedReferences:
